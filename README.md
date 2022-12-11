@@ -1,3 +1,3 @@
 # Thesparksfoundation
 
-Here I will post all the tasks answers here.
+Here I will post some of the tasks answers here.
